@@ -1,0 +1,90 @@
+body{
+    background-color:#87CEFA ;
+
+}
+
+#h2{
+    margin-top: 30px;
+    margin-left: 350px;
+    color:red;
+
+}
+
+#DadosPess{
+    margin-left: 65px;
+    background-color: #1E90FF;
+}
+
+#Nome{
+    margin-left:65px;
+}
+#InpNome{
+    margin-left:125px;
+    width: 290px;
+    height:20px;
+}
+
+#Endereco{
+    margin-left:65px;
+}
+#InpEnd{
+    margin-left:171px;
+    width: 290px;
+    height:20px;
+}
+
+#Cidade{
+    margin-left:65px;
+}
+#InpCid{
+    margin-left:185px;
+    width: 290px;
+    height:20px;
+}
+
+#Estado{
+    margin-left:65px;
+}
+#UF{
+    margin-left:187px;
+    width: 150px;
+    height:20px;
+}
+
+#DadosSist{
+    margin-left: 65px;
+    background-color: #1E90FF;
+}
+
+#NomeUsuario{
+    margin-left:65px;
+}
+#InpNomeUsuar{
+    margin-left:115px;
+    width: 290px;
+    height:20px;
+}
+
+#Senha{
+    margin-left:65px;
+}
+#InpSenha{
+    margin-left:190px;
+    width: 290px;
+    height:20px;
+}
+
+#Confirme{
+    margin-left:65px;
+}
+#InpConfir{
+    margin-left:125px;
+    width: 290px;
+    height:20px;
+}
+
+#BtnCad{
+    margin-left:400px;
+    width:200px;
+
+}
